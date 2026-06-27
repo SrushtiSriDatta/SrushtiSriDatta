@@ -24,7 +24,7 @@
 
 ### About Me
 
-- 🎓 **BE in ECE (Honours)** graduate from GSSSIETW, VTU — CGPA: **8.63/10**
+- 🎓 **BE in ECE (Honours)** graduate from , VTU
 - 🔧 Passionate about both **Hardware** (circuits, embedded systems) and **Software** (web development)
 - 💻 Full Stack Web Development Intern at **VrishankSoft Pvt. Ltd.** (Feb–May 2026)
 - 🏆 Recipient of **Altium Global Scholarship 2025** & **Gita Chaitanya Merit Scholarship**
