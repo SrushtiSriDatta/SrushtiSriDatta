@@ -21,7 +21,7 @@
 
 ### About Me
 
-- 🎓 **BE in ECE** graduate from GSSSIETW (May 2026)
+- 🎓 **BE in ECE** graduate from VTU
 - 🔧 Passionate about both **Hardware** (circuits, embedded systems) and **Software** (web development)
 - 💻 Built full-stack web applications using **Node.js**, **MongoDB**, and **Express.js**
 - 🌱 Always exploring new technologies across both domains
