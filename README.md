@@ -50,6 +50,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [WriteHub](https://github.com/SrushtiSriDatta/WriteHub) | A full-stack blog platform with admin dashboard, comments, search, and contact form | Node.js, Express, MongoDB, EJS |
+| [Smart Energy Meter](https://github.com/SrushtiSriDatta/Smart-Engery-Meter) | IoT-based intelligent energy meter with theft detection, GSM alerts, and ThingSpeak cloud monitoring — EMCI 2026 Conference | ESP32, Arduino, GSM, ThingSpeak |
 
 ---
 
