@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Srushti SriDatta 👋</h1>
 
 <p align="center">
-  <b>Electronics & Communication Engineering Student</b> <br/>
-  Passionate about building full-stack web applications and exploring new technologies.
+  <b>Electronics & Communication Engineer</b> <br/>
+  Passionate about both Hardware and Software — bridging circuits and code.
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 
 ### About Me
 
-- 🎓 Final year **ECE** student at GSSSIETW
-- 💻 Currently building full-stack web projects
-- 🌱 Learning **Node.js**, **MongoDB**, and **Express.js**
-- 🚀 Always looking to learn and grow
+- 🎓 **BE in ECE** graduate from GSSSIETW (May 2026)
+- 🔧 Passionate about both **Hardware** (circuits, embedded systems) and **Software** (web development)
+- 💻 Built full-stack web applications using **Node.js**, **MongoDB**, and **Express.js**
+- 🌱 Always exploring new technologies across both domains
 - 📫 Reach me at **srushtisridatta26@gmail.com**
 
 ---
