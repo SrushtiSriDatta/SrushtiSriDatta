@@ -28,7 +28,7 @@
 - 🔧 Passionate about both **Hardware** (circuits, embedded systems) and **Software** (web development)
 - 💻 Full Stack Web Development Intern at **VrishankSoft Pvt. Ltd.** (Feb–May 2026)
 - 🏆 Recipient of **Altium Global Scholarship 2025** & **Gita Chaitanya Merit Scholarship**
-- 📄 Paper accepted at **EMIC 2026** — *Intelligent Energy Meter System for Theft and Tamper Prevention*
+- 📄 Paper accepted at **ECMI 2026** — *Intelligent Energy Meter System for Theft and Tamper Prevention*
 - 📫 Reach me at **srushtisridatta26@gmail.com**
 
 ---
