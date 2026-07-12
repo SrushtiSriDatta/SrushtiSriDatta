@@ -12,8 +12,11 @@
   <a href="https://github.com/SrushtiSriDatta">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/srushti-sri-datta">
+  <a href="https://www.linkedin.com/in/srushti-sridatta-65275527b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://srushtisridatta.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/SrushtiSriDatta/SrushtiSriDatta/raw/main/Srushti_SriDatta_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
@@ -24,7 +27,7 @@
 
 ### About Me
 
-- 🎓 **BE in ECE (Honours)** graduate from , VTU
+- 🎓 **BE in ECE (Honours)** graduate from VTU
 - 🔧 Passionate about both **Hardware** (circuits, embedded systems) and **Software** (web development)
 - 💻 Full Stack Web Development Intern at **VrishankSoft Pvt. Ltd.** (Feb–May 2026)
 - 🏆 Recipient of **Altium Global Scholarship 2025** & **Gita Chaitanya Merit Scholarship**
@@ -77,6 +80,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Extending Tamper Detection with Edge AI](https://github.com/SrushtiSriDatta/Extending-Tamper-Detection-with-Edge-AI) | ML-based tamper/theft detection for smart energy meters, deployed as a quantized model for edge inference | Python, TensorFlow, scikit-learn, TFLite |
 | [WriteHub](https://github.com/SrushtiSriDatta/WriteHub) | Full-stack blog platform with admin dashboard, comments, search, and contact form | Node.js, Express, MongoDB, EJS |
 | [Smart Energy Meter](https://github.com/SrushtiSriDatta/Smart-Engery-Meter) | IoT-based intelligent energy meter with theft detection, GSM alerts & ThingSpeak cloud monitoring — EMIC 2026 | ESP32, Arduino, GSM, ThingSpeak |
 | WiFi Secure Communication Using RSA | Secure WiFi communication system using RSA public-key cryptography with encryption and authentication | ESP32, C++, RSA |
@@ -93,7 +97,18 @@
 
 ---
 
+### GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrushtiSriDatta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrushtiSriDatta&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSriDatta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
 
 
 
