@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5EEAD4"/>
+      <stop offset="0.35" stop-color="#7DD3FC"/>
+      <stop offset="0.7" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.25 0; 0.25 0; -0.25 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#99F6E4"/>
+      <stop offset="1" stop-color="#F9A8D4"/>
+    </linearGradient>
+    <filter id="sh" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#4C1D95" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <style>
+    .name { font: 800 76px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: 1px; animation: up 1.2s ease-out .2s backwards; }
+    .sub { font: 600 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: 4px; animation: up 1.2s ease-out .9s backwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  <path fill="url(#g2)" opacity="0.45" d="M0 0H1200V200C1050 230 900 175 750 195S450 235 300 205 90 190 0 210Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0 0H1200V200C1050 230 900 175 750 195S450 235 300 205 90 190 0 210Z;
+              M0 0H1200V210C1060 185 920 225 760 205S460 180 300 210 100 230 0 200Z;
+              M0 0H1200V200C1050 230 900 175 750 195S450 235 300 205 90 190 0 210Z"/>
+  </path>
+  <path fill="url(#g)" d="M0 0H1200V180C1040 205 900 160 740 180S440 215 290 188 90 172 0 192Z">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="M0 0H1200V180C1040 205 900 160 740 180S440 215 290 188 90 172 0 192Z;
+              M0 0H1200V190C1050 168 910 205 750 188S450 165 290 192 100 210 0 182Z;
+              M0 0H1200V180C1040 205 900 160 740 180S440 215 290 188 90 172 0 192Z"/>
+  </path>
+  <text class="name" x="600" y="112" text-anchor="middle" filter="url(#sh)">Srushti SriDatta</text>
+  <text class="sub" x="600" y="155" text-anchor="middle" filter="url(#sh)">ELECTRONICS &amp; COMMUNICATION ENGINEER</text>
+</svg>

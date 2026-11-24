@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hi, I'm Srushti SriDatta, Electronics &amp; Communication Engineer" />
+  <img src="assets/name-banner.svg" width="100%" alt="Srushti SriDatta, Electronics &amp; Communication Engineer" />
 </p>
 
 <p align="center">
@@ -14,6 +14,10 @@
   <a href="https://www.linkedin.com/in/srushti-sridatta-65275527b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://srushtisridatta.github.io/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/SrushtiSriDatta/SrushtiSriDatta/raw/main/Srushti_SriDatta_Resume.pdf"><img src="https://img.shields.io/badge/Resume-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/coding.svg" width="560" alt="Animated illustration of a developer coding at her desk" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
