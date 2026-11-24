@@ -16,8 +16,7 @@
     </filter>
   </defs>
   <style>
-    .name { font: 800 76px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: 1px; animation: up 1.2s ease-out .2s backwards; }
-    .sub { font: 600 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: 4px; animation: up 1.2s ease-out .9s backwards; }
+    .name { font: 800 84px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: 1px; animation: up 1.2s ease-out .2s backwards; }
     @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
   </style>
   <path fill="url(#g2)" opacity="0.45" d="M0 0H1200V200C1050 230 900 175 750 195S450 235 300 205 90 190 0 210Z">
@@ -32,6 +31,5 @@
               M0 0H1200V190C1050 168 910 205 750 188S450 165 290 192 100 210 0 182Z;
               M0 0H1200V180C1040 205 900 160 740 180S440 215 290 188 90 172 0 192Z"/>
   </path>
-  <text class="name" x="600" y="112" text-anchor="middle" filter="url(#sh)">Srushti SriDatta</text>
-  <text class="sub" x="600" y="155" text-anchor="middle" filter="url(#sh)">ELECTRONICS &amp; COMMUNICATION ENGINEER</text>
+  <text class="name" x="600" y="122" text-anchor="middle" filter="url(#sh)">Srushti SriDatta</text>
 </svg>

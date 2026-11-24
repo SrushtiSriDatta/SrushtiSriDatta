@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="assets/name-banner.svg" width="100%" alt="Srushti SriDatta, Electronics &amp; Communication Engineer" />
+  <img src="assets/name-banner.svg" width="100%" alt="Srushti SriDatta" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/coding.svg" width="560" alt="Animated illustration of a developer coding at her desk" />
+  <img src="assets/coding.svg" width="560" alt="Animated desk with computers running code" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
