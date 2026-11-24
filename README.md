@@ -26,7 +26,7 @@
 
 - 🎓 **BE (Honours) in Electronics & Communication**, VTU
 - 🔧 Equally at home with **hardware** (circuits, embedded systems) and **software** (web development)
-- 💻 Full Stack Web Development Intern at **VrishankSoft Pvt. Ltd.** (Feb–May 2026)
+- 💻 Full Stack Web Development Intern at **VrishankSoft Pvt. Ltd.**
 - 🏆 **Altium Global Scholarship 2025** & **Gita Chaitanya Merit Scholarship**
 - 📄 Paper published at **ECMI 2026**: *Intelligent Energy Meter System for Theft and Tamper Prevention*
 - 📫 **srushtisridatta26@gmail.com**
