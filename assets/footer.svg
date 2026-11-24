@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="Thanks for visiting">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#facc15"/><stop offset="35%" stop-color="#f97316"/><stop offset="70%" stop-color="#db2777"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient></defs>
+  <path d="M0 30 C 200 0, 400 60, 600 30 S 1000 0, 1200 35 V90 H0 Z" fill="url(#g)"/>
+  <text x="600" y="72" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Thanks for visiting ✨</text>
+</svg>

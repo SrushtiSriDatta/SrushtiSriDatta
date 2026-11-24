@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Srushti%20SriDatta&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Electronics%20%26%20Communication%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="Srushti SriDatta" />
+  <img src="assets/header.svg" width="100%" alt="Hi, I'm Srushti SriDatta, Electronics &amp; Communication Engineer" />
 </p>
 
 <p align="center">
   <a href="https://github.com/SrushtiSriDatta">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Bridging+circuits+and+code+%E2%9A%A1;Embedded+systems+%E2%80%A2+IoT+%E2%80%A2+Edge+AI;Full-stack+web+developer;Building+ArcScribe%2C+my+own+notes+app+%E2%9C%8D%EF%B8%8F" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=F472B6&center=true&vCenter=true&width=620&lines=Bridging+circuits+and+code+%E2%9A%A1;Embedded+systems+%E2%80%A2+IoT+%E2%80%A2+Edge+AI;Full-stack+web+developer;Building+ArcScribe%2C+my+own+notes+app+%E2%9C%8D%EF%B8%8F" alt="Typing intro" />
   </a>
 </p>
 
@@ -16,9 +16,9 @@
   <a href="https://github.com/SrushtiSriDatta/SrushtiSriDatta/raw/main/Srushti_SriDatta_Resume.pdf"><img src="https://img.shields.io/badge/Resume-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 👩‍💻 About me
+## 💖 About me
 
 <table>
 <tr>
@@ -49,9 +49,9 @@ motto: "Bridging circuits and code"
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🛠️ Tech stack
+## 🧰 Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,express,mongodb,arduino,git,github,vscode&perline=7" alt="Skills" />
@@ -69,7 +69,7 @@ motto: "Bridging circuits and code"
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## ✍️ Featured: ArcScribe
 
@@ -84,22 +84,22 @@ motto: "Bridging circuits and code"
 Pressure-sensitive pens, PDF annotation, 19 paper templates, lasso, shapes, rich text, OCR and a study workspace with flashcards and quizzes.
 Notes stay on the device.
 
-<a href="https://srushtisridatta.github.io/ArcScribe/"><img src="https://img.shields.io/badge/Open%20the%20app-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open ArcScribe" /></a>
+<a href="https://srushtisridatta.github.io/ArcScribe/"><img src="https://img.shields.io/badge/Open%20the%20app-DB2777?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open ArcScribe" /></a>
 <a href="https://github.com/SrushtiSriDatta/ArcScribe"><img src="https://img.shields.io/badge/Source-111827?style=for-the-badge&logo=github&logoColor=white" alt="ArcScribe source" /></a>
 
 </td>
 </tr>
 </table>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 🚀 Projects
 
 <p align="center">
-  <a href="https://github.com/SrushtiSriDatta/Extending-Tamper-Detection-with-Edge-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrushtiSriDatta&repo=Extending-Tamper-Detection-with-Edge-AI&theme=tokyonight&hide_border=true" alt="Extending Tamper Detection with Edge AI" /></a>
-  <a href="https://github.com/SrushtiSriDatta/WriteHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrushtiSriDatta&repo=WriteHub&theme=tokyonight&hide_border=true" alt="WriteHub" /></a>
-  <a href="https://github.com/SrushtiSriDatta/Smart-Engery-Meter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrushtiSriDatta&repo=Smart-Engery-Meter&theme=tokyonight&hide_border=true" alt="Smart Energy Meter" /></a>
-  <a href="https://github.com/SrushtiSriDatta/ArcScribe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrushtiSriDatta&repo=ArcScribe&theme=tokyonight&hide_border=true" alt="ArcScribe" /></a>
+  <a href="https://github.com/SrushtiSriDatta/Extending-Tamper-Detection-with-Edge-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrushtiSriDatta&repo=Extending-Tamper-Detection-with-Edge-AI&theme=radical&hide_border=true" alt="Extending Tamper Detection with Edge AI" /></a>
+  <a href="https://github.com/SrushtiSriDatta/WriteHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrushtiSriDatta&repo=WriteHub&theme=radical&hide_border=true" alt="WriteHub" /></a>
+  <a href="https://github.com/SrushtiSriDatta/Smart-Engery-Meter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrushtiSriDatta&repo=Smart-Engery-Meter&theme=radical&hide_border=true" alt="Smart Energy Meter" /></a>
+  <a href="https://github.com/SrushtiSriDatta/ArcScribe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SrushtiSriDatta&repo=ArcScribe&theme=radical&hide_border=true" alt="ArcScribe" /></a>
 </p>
 
 | Project | What it does | Tech |
@@ -111,7 +111,7 @@ Notes stay on the device.
 | **WiFi Secure Communication Using RSA** | Secure WiFi communication using RSA public-key cryptography with encryption and authentication | ESP32, C++, RSA |
 | **Traffic Control System** | 8052 microcontroller traffic-light system simulated in Multisim, written in assembly | 8052, Multisim, Assembly |
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## 📜 Certifications
 
@@ -122,28 +122,24 @@ Notes stay on the device.
   <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="NPTEL Java" />
 </p>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 📊 GitHub stats
+## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrushtiSriDatta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSriDatta&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrushtiSriDatta&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrushtiSriDatta&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrushtiSriDatta&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrushtiSriDatta&theme=radical&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrushtiSriDatta&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SrushtiSriDatta&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SrushtiSriDatta&label=Profile%20views&color=db2777&style=for-the-badge" alt="Profile views" />
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
 </p>
