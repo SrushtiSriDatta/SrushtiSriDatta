@@ -24,7 +24,7 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 **BE (Honours) in Electronics & Communication**, VTU
+- 🎓 **BE Honours in Electronics & Communication**, VTU
 - 🔧 Equally at home with **hardware** (circuits, embedded systems) and **software** (web development)
 - 💻 Full Stack Web Development Intern at **VrishankSoft Pvt. Ltd.**
 - 🏆 **Altium Global Scholarship 2025** & **Gita Chaitanya Merit Scholarship**
